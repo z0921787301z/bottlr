@@ -1,0 +1,49 @@
+{
+    "admin": {
+
+    },
+    "autoAdd": true,
+    "autoJoin": true,
+    "autoLeave": false,
+    "autoRead": false,
+    "blacklist": {
+
+    },
+    "bot": {
+
+    },
+    "cc": {},
+    "checkSticker": {},
+    "contact": false,
+    "detectMention": false,
+    "gm": {
+
+    },
+    "inviteprotect": {
+
+    },
+    "keyCommand": "",
+    "lang": "JP",
+    "limit": {
+        
+    },
+    "protect": {
+
+    },
+    "qrprotect": {
+
+    },
+    "react": {
+
+    },
+    "reread": {
+
+    },
+    "sr": {
+
+    },
+    "timeline": true,
+    "wel": {
+        
+    }
+}
